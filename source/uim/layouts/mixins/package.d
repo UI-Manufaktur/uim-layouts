@@ -1,1 +1,1 @@
-module uim.layouts.classes.mixins
+module uim.layouts.mixins;

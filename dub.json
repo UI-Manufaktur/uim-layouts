@@ -41,30 +41,19 @@
 	"importPaths": [
 		"../uim-core",
 		"../uim-oop",
-		"../uim-models",
 		"../uim-css",
 		"../uim-html",
 		"../uim-bootstrap",
-		"../uim-jsonbase",
-		"../uim-entitybase",
-		"../../WEBS/web-controls",
-
 		"../../LANGS/lang-javascript",
-		"../../LAYOUTS/layout-tabler/source/layouts",
 		"./"
 	],
 	"sourcePaths": [
 		"../uim-core",
 		"../uim-oop",
-		"../uim-models",
 		"../uim-css",
 		"../uim-html",
 		"../uim-bootstrap",
-		"../uim-jsonbase",
-		"../uim-entitybase",
-		"../../WEBS/web-controls",
 		"../../LANGS/lang-javascript",
-		"../../LAYOUTS/layout-tabler/source/layouts",
 		"./"
 	]
 }
